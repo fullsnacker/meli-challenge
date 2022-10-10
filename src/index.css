@@ -1,0 +1,70 @@
+@font-face {
+	font-family: "Proxima Nova";
+	src: url("/src/assets/fonts/proximanova-light.woff2");
+	font-weight: 100;
+}
+
+@font-face {
+	font-family: "Proxima Nova";
+	src: url("/src/assets/fonts/proximanova-regular.woff2");
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Proxima Nova";
+	src: url("/src/assets/fonts/proximanova-semibold.woff2");
+	font-weight: 500;
+}
+
+:root {
+	--meli-yellow: #fff159;
+	--grey: rgba(0, 0, 0, 0.55);
+}
+
+body {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	font-family: "Proxima Nova", sans-serif;
+}
+
+main {
+	background-color: #EDEDED;
+}
+
+p {
+	margin: 0;
+}
+
+input, li {
+	font-family: "Proxima Nova", sans-serif;
+}
+
+button {
+	border: none;
+	font-family: "Proxima Nova", sans-serif;
+	background-color: rgba(0, 0, 0, 0);
+	cursor: pointer;
+}
+
+footer {
+	text-align: center;
+	padding: 2em 0 2em 0;
+	width: 100%;
+	background-color: #FFF;
+	border-top: 1px solid #eee;
+}
+
+footer a {
+	color: #3484fa;
+	transition: 0.2s;
+}
+
+footer a:hover {
+	color: #2968c8;
+}
+
+footer p {
+	font-size: 14px;
+	margin-top: 10px;
+}

@@ -1,0 +1,11 @@
+.product-description {
+	white-space: pre-wrap;
+	color: #666;
+    font-size: 20px;
+}
+
+/* -------- DARK MODE -------- */
+
+main.dark-mode .product-description {
+	color: rgb(230, 230, 230, 0.9);
+}
