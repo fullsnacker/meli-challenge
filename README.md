@@ -151,7 +151,7 @@ Si tiene alguna sugerencia que pueda mejorar esto, haz fork del repositorio y cr
 
 ## Licencia
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distrubuido bajo Licencia MIT. Ver `LICENSE.txt` para mas informacion.
 
 <p align="right">(<a href="#readme-top">Subir</a>)</p>
 
