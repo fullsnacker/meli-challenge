@@ -38,10 +38,10 @@
 
 ## Acerca del Proyecto
 
-<img src="https://i.postimg.cc/PJgkjKFq/Screenshot-from-2022-10-11-19-51-47.png" alt="Logo">
+<img src="https://i.postimg.cc/CxxyxWk9/Screenshot-from-2024-09-20-17-13-29.png" alt="Logo">
 <br /><br />
 
-Debemos crear un clon de [la página de detalle de producto](https://articulo.mercadolibre.com.ar/MLA-741093357-peluche-stitch-angel-lilo-1-metro-100cm-reales-gigante-_JM#position=5&search_layout=stack&type=item&tracking_id=839ad6c1-5098-41e7-914b-75a960f45a3b) de Mercado Libre.
+Debemos crear un clon de [la página de detalle de producto](https://meli-challenge-omega.vercel.app/) de Mercado Libre.
 
 ### API
 
